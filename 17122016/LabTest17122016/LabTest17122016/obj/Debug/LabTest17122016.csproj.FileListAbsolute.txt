@@ -1,0 +1,8 @@
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\bin\Debug\LabTest17122016.exe.config
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\bin\Debug\LabTest17122016.exe
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\bin\Debug\LabTest17122016.pdb
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\obj\Debug\LabTest17122016.InterestCalculatorForm.resources
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\obj\Debug\LabTest17122016.Properties.Resources.resources
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\obj\Debug\LabTest17122016.csproj.GenerateResource.Cache
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\obj\Debug\LabTest17122016.exe
+E:\Batch33#107512\17122016\LabTest17122016\LabTest17122016\obj\Debug\LabTest17122016.pdb

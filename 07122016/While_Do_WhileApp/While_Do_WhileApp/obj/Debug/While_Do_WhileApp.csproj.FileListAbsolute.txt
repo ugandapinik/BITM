@@ -1,0 +1,5 @@
+E:\Batch33#107512\07122016\While_Do_WhileApp\While_Do_WhileApp\bin\Debug\While_Do_WhileApp.exe.config
+E:\Batch33#107512\07122016\While_Do_WhileApp\While_Do_WhileApp\bin\Debug\While_Do_WhileApp.exe
+E:\Batch33#107512\07122016\While_Do_WhileApp\While_Do_WhileApp\bin\Debug\While_Do_WhileApp.pdb
+E:\Batch33#107512\07122016\While_Do_WhileApp\While_Do_WhileApp\obj\Debug\While_Do_WhileApp.exe
+E:\Batch33#107512\07122016\While_Do_WhileApp\While_Do_WhileApp\obj\Debug\While_Do_WhileApp.pdb

@@ -1,0 +1,6 @@
+E:\Batch33#107512\07122016\MethodApp\MethodApp\bin\Debug\MethodApp.exe.config
+E:\Batch33#107512\07122016\MethodApp\MethodApp\bin\Debug\MethodApp.exe
+E:\Batch33#107512\07122016\MethodApp\MethodApp\bin\Debug\MethodApp.pdb
+E:\Batch33#107512\07122016\MethodApp\MethodApp\obj\Debug\MethodApp.exe
+E:\Batch33#107512\07122016\MethodApp\MethodApp\obj\Debug\MethodApp.pdb
+E:\Batch33#107512\07122016\MethodApp\MethodApp\obj\Debug\MethodApp.csprojResolveAssemblyReference.cache

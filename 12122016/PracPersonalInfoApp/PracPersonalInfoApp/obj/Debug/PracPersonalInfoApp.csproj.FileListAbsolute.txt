@@ -1,0 +1,8 @@
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\bin\Debug\PracPersonalInfoApp.exe.config
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\obj\Debug\PracPersonalInfoApp.FormPersonalInfo.resources
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\obj\Debug\PracPersonalInfoApp.Properties.Resources.resources
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\obj\Debug\PracPersonalInfoApp.csproj.GenerateResource.Cache
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\bin\Debug\PracPersonalInfoApp.exe
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\bin\Debug\PracPersonalInfoApp.pdb
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\obj\Debug\PracPersonalInfoApp.exe
+E:\Batch33#107512\12122016\PracPersonalInfoApp\PracPersonalInfoApp\obj\Debug\PracPersonalInfoApp.pdb

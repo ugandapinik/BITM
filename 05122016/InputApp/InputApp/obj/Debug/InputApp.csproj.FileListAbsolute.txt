@@ -1,0 +1,6 @@
+E:\Batch33#107512\05122016\InputApp\InputApp\bin\Debug\InputApp.exe.config
+E:\Batch33#107512\05122016\InputApp\InputApp\bin\Debug\InputApp.exe
+E:\Batch33#107512\05122016\InputApp\InputApp\bin\Debug\InputApp.pdb
+E:\Batch33#107512\05122016\InputApp\InputApp\obj\Debug\InputApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\05122016\InputApp\InputApp\obj\Debug\InputApp.exe
+E:\Batch33#107512\05122016\InputApp\InputApp\obj\Debug\InputApp.pdb

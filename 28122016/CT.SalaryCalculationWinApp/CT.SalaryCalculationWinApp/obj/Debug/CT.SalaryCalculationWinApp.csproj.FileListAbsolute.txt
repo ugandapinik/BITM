@@ -1,0 +1,8 @@
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\bin\Debug\CT.SalaryCalculationWinApp.exe.config
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\bin\Debug\CT.SalaryCalculationWinApp.exe
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\bin\Debug\CT.SalaryCalculationWinApp.pdb
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\obj\Debug\CT.SalaryCalculationWinApp.EmployeeSalaryUI.resources
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\obj\Debug\CT.SalaryCalculationWinApp.Properties.Resources.resources
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\obj\Debug\CT.SalaryCalculationWinApp.csproj.GenerateResource.Cache
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\obj\Debug\CT.SalaryCalculationWinApp.exe
+E:\Batch33#107512\28122016(Sumon)\CT.SalaryCalculationWinApp\CT.SalaryCalculationWinApp\obj\Debug\CT.SalaryCalculationWinApp.pdb

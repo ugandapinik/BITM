@@ -1,0 +1,6 @@
+E:\Batch33#107512\28122016(Sumon)\ReferenceType.ObjectApp\ReferenceType.ObjectApp\bin\Debug\ReferenceType.ObjectApp.exe.config
+E:\Batch33#107512\28122016(Sumon)\ReferenceType.ObjectApp\ReferenceType.ObjectApp\bin\Debug\ReferenceType.ObjectApp.exe
+E:\Batch33#107512\28122016(Sumon)\ReferenceType.ObjectApp\ReferenceType.ObjectApp\bin\Debug\ReferenceType.ObjectApp.pdb
+E:\Batch33#107512\28122016(Sumon)\ReferenceType.ObjectApp\ReferenceType.ObjectApp\obj\Debug\ReferenceType.ObjectApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\28122016(Sumon)\ReferenceType.ObjectApp\ReferenceType.ObjectApp\obj\Debug\ReferenceType.ObjectApp.exe
+E:\Batch33#107512\28122016(Sumon)\ReferenceType.ObjectApp\ReferenceType.ObjectApp\obj\Debug\ReferenceType.ObjectApp.pdb

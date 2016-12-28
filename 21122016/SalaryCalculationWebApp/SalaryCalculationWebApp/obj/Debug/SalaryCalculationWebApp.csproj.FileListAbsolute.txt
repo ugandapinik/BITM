@@ -1,0 +1,6 @@
+E:\Batch33#107512\21122016\SalaryCalculationWebApp\SalaryCalculationWebApp\bin\SalaryCalculationWebApp.dll.config
+E:\Batch33#107512\21122016\SalaryCalculationWebApp\SalaryCalculationWebApp\bin\SalaryCalculationWebApp.dll
+E:\Batch33#107512\21122016\SalaryCalculationWebApp\SalaryCalculationWebApp\bin\SalaryCalculationWebApp.pdb
+E:\Batch33#107512\21122016\SalaryCalculationWebApp\SalaryCalculationWebApp\obj\Debug\SalaryCalculationWebApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\21122016\SalaryCalculationWebApp\SalaryCalculationWebApp\obj\Debug\SalaryCalculationWebApp.dll
+E:\Batch33#107512\21122016\SalaryCalculationWebApp\SalaryCalculationWebApp\obj\Debug\SalaryCalculationWebApp.pdb

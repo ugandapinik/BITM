@@ -1,0 +1,6 @@
+E:\Batch33#107512\05122016\InptApp\InptApp\bin\Debug\InptApp.exe.config
+E:\Batch33#107512\05122016\InptApp\InptApp\bin\Debug\InptApp.exe
+E:\Batch33#107512\05122016\InptApp\InptApp\bin\Debug\InptApp.pdb
+E:\Batch33#107512\05122016\InptApp\InptApp\obj\Debug\InptApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\05122016\InptApp\InptApp\obj\Debug\InptApp.exe
+E:\Batch33#107512\05122016\InptApp\InptApp\obj\Debug\InptApp.pdb

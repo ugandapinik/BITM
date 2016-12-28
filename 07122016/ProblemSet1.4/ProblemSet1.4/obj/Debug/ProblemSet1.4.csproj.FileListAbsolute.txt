@@ -1,0 +1,5 @@
+E:\Batch33#107512\07122016\ProblemSet1.4\ProblemSet1.4\bin\Debug\ProblemSet1.4.exe.config
+E:\Batch33#107512\07122016\ProblemSet1.4\ProblemSet1.4\bin\Debug\ProblemSet1.4.exe
+E:\Batch33#107512\07122016\ProblemSet1.4\ProblemSet1.4\bin\Debug\ProblemSet1.4.pdb
+E:\Batch33#107512\07122016\ProblemSet1.4\ProblemSet1.4\obj\Debug\ProblemSet1.4.exe
+E:\Batch33#107512\07122016\ProblemSet1.4\ProblemSet1.4\obj\Debug\ProblemSet1.4.pdb

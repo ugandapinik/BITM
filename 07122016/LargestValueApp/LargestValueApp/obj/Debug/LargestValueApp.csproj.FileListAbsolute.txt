@@ -1,0 +1,5 @@
+E:\Batch33#107512\07122016\LargestValueApp\LargestValueApp\bin\Debug\LargestValueApp.exe.config
+E:\Batch33#107512\07122016\LargestValueApp\LargestValueApp\bin\Debug\LargestValueApp.exe
+E:\Batch33#107512\07122016\LargestValueApp\LargestValueApp\bin\Debug\LargestValueApp.pdb
+E:\Batch33#107512\07122016\LargestValueApp\LargestValueApp\obj\Debug\LargestValueApp.exe
+E:\Batch33#107512\07122016\LargestValueApp\LargestValueApp\obj\Debug\LargestValueApp.pdb

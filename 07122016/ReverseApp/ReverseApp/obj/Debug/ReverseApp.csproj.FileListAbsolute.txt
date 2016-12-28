@@ -1,0 +1,5 @@
+E:\Batch33#107512\07122016\ReverseApp\ReverseApp\bin\Debug\ReverseApp.exe.config
+E:\Batch33#107512\07122016\ReverseApp\ReverseApp\bin\Debug\ReverseApp.exe
+E:\Batch33#107512\07122016\ReverseApp\ReverseApp\bin\Debug\ReverseApp.pdb
+E:\Batch33#107512\07122016\ReverseApp\ReverseApp\obj\Debug\ReverseApp.exe
+E:\Batch33#107512\07122016\ReverseApp\ReverseApp\obj\Debug\ReverseApp.pdb

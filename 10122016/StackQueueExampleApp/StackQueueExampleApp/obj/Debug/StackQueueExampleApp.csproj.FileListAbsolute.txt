@@ -1,0 +1,6 @@
+E:\Batch33#107512\10122016\StackQueueExampleApp\StackQueueExampleApp\bin\Debug\StackQueueExampleApp.exe.config
+E:\Batch33#107512\10122016\StackQueueExampleApp\StackQueueExampleApp\bin\Debug\StackQueueExampleApp.exe
+E:\Batch33#107512\10122016\StackQueueExampleApp\StackQueueExampleApp\bin\Debug\StackQueueExampleApp.pdb
+E:\Batch33#107512\10122016\StackQueueExampleApp\StackQueueExampleApp\obj\Debug\StackQueueExampleApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\10122016\StackQueueExampleApp\StackQueueExampleApp\obj\Debug\StackQueueExampleApp.exe
+E:\Batch33#107512\10122016\StackQueueExampleApp\StackQueueExampleApp\obj\Debug\StackQueueExampleApp.pdb

@@ -1,0 +1,6 @@
+E:\Batch33#107512\19122016\WebHelloWorldApp\WebHelloWorldApp\bin\WebHelloWorldApp.dll.config
+E:\Batch33#107512\19122016\WebHelloWorldApp\WebHelloWorldApp\bin\WebHelloWorldApp.dll
+E:\Batch33#107512\19122016\WebHelloWorldApp\WebHelloWorldApp\bin\WebHelloWorldApp.pdb
+E:\Batch33#107512\19122016\WebHelloWorldApp\WebHelloWorldApp\obj\Debug\WebHelloWorldApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\19122016\WebHelloWorldApp\WebHelloWorldApp\obj\Debug\WebHelloWorldApp.dll
+E:\Batch33#107512\19122016\WebHelloWorldApp\WebHelloWorldApp\obj\Debug\WebHelloWorldApp.pdb

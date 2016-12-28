@@ -1,0 +1,9 @@
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\bin\Debug\DeskTopWinApp.exe.config
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\bin\Debug\DeskTopWinApp.exe
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\bin\Debug\DeskTopWinApp.pdb
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\obj\Debug\DeskTopWinApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\obj\Debug\DeskTopWinApp.Form1.resources
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\obj\Debug\DeskTopWinApp.Properties.Resources.resources
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\obj\Debug\DeskTopWinApp.csproj.GenerateResource.Cache
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\obj\Debug\DeskTopWinApp.exe
+E:\Batch33#107512\19122016\DeskTopWinApp\DeskTopWinApp\obj\Debug\DeskTopWinApp.pdb

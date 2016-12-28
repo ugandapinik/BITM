@@ -1,0 +1,6 @@
+E:\Batch33#107512\24122016(Sumon)\OOPBasicApp\OOPBasicApp\bin\Debug\OOPBasicApp.exe.config
+E:\Batch33#107512\24122016(Sumon)\OOPBasicApp\OOPBasicApp\bin\Debug\OOPBasicApp.exe
+E:\Batch33#107512\24122016(Sumon)\OOPBasicApp\OOPBasicApp\bin\Debug\OOPBasicApp.pdb
+E:\Batch33#107512\24122016(Sumon)\OOPBasicApp\OOPBasicApp\obj\Debug\OOPBasicApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\24122016(Sumon)\OOPBasicApp\OOPBasicApp\obj\Debug\OOPBasicApp.exe
+E:\Batch33#107512\24122016(Sumon)\OOPBasicApp\OOPBasicApp\obj\Debug\OOPBasicApp.pdb

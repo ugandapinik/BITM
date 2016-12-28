@@ -1,0 +1,6 @@
+E:\Batch33#107512\10122016\ArrayExampleApp\ArrayExampleApp\bin\Debug\ArrayExampleApp.exe.config
+E:\Batch33#107512\10122016\ArrayExampleApp\ArrayExampleApp\bin\Debug\ArrayExampleApp.exe
+E:\Batch33#107512\10122016\ArrayExampleApp\ArrayExampleApp\bin\Debug\ArrayExampleApp.pdb
+E:\Batch33#107512\10122016\ArrayExampleApp\ArrayExampleApp\obj\Debug\ArrayExampleApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\10122016\ArrayExampleApp\ArrayExampleApp\obj\Debug\ArrayExampleApp.exe
+E:\Batch33#107512\10122016\ArrayExampleApp\ArrayExampleApp\obj\Debug\ArrayExampleApp.pdb

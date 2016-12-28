@@ -1,0 +1,6 @@
+E:\Batch33#107512\07122016\ProblemSet1.1\ProblemSet1.1\bin\Debug\ProblemSet1.1.exe.config
+E:\Batch33#107512\07122016\ProblemSet1.1\ProblemSet1.1\bin\Debug\ProblemSet1.1.exe
+E:\Batch33#107512\07122016\ProblemSet1.1\ProblemSet1.1\bin\Debug\ProblemSet1.1.pdb
+E:\Batch33#107512\07122016\ProblemSet1.1\ProblemSet1.1\obj\Debug\ProblemSet1.1.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\07122016\ProblemSet1.1\ProblemSet1.1\obj\Debug\ProblemSet1.1.exe
+E:\Batch33#107512\07122016\ProblemSet1.1\ProblemSet1.1\obj\Debug\ProblemSet1.1.pdb

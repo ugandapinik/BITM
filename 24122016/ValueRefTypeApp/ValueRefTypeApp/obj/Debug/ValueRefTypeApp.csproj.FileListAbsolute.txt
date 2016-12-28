@@ -1,0 +1,6 @@
+E:\Batch33#107512\24122016(Sumon)\ValueRefTypeApp\ValueRefTypeApp\bin\Debug\ValueRefTypeApp.exe.config
+E:\Batch33#107512\24122016(Sumon)\ValueRefTypeApp\ValueRefTypeApp\bin\Debug\ValueRefTypeApp.exe
+E:\Batch33#107512\24122016(Sumon)\ValueRefTypeApp\ValueRefTypeApp\bin\Debug\ValueRefTypeApp.pdb
+E:\Batch33#107512\24122016(Sumon)\ValueRefTypeApp\ValueRefTypeApp\obj\Debug\ValueRefTypeApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\24122016(Sumon)\ValueRefTypeApp\ValueRefTypeApp\obj\Debug\ValueRefTypeApp.exe
+E:\Batch33#107512\24122016(Sumon)\ValueRefTypeApp\ValueRefTypeApp\obj\Debug\ValueRefTypeApp.pdb

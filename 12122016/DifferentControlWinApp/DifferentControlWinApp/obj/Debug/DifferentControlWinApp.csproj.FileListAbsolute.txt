@@ -1,0 +1,9 @@
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\bin\Debug\DifferentControlWinApp.exe.config
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\bin\Debug\DifferentControlWinApp.exe
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\bin\Debug\DifferentControlWinApp.pdb
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\obj\Debug\DifferentControlWinApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\obj\Debug\DifferentControlWinApp.Form1.resources
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\obj\Debug\DifferentControlWinApp.Properties.Resources.resources
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\obj\Debug\DifferentControlWinApp.csproj.GenerateResource.Cache
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\obj\Debug\DifferentControlWinApp.exe
+E:\Batch33#107512\12122016\DifferentControlWinApp\DifferentControlWinApp\obj\Debug\DifferentControlWinApp.pdb

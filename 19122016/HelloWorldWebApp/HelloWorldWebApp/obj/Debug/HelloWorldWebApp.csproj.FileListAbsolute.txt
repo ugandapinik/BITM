@@ -1,0 +1,6 @@
+E:\Batch33#107512\19122016\HelloWorldWebApp\HelloWorldWebApp\bin\HelloWorldWebApp.dll.config
+E:\Batch33#107512\19122016\HelloWorldWebApp\HelloWorldWebApp\bin\HelloWorldWebApp.dll
+E:\Batch33#107512\19122016\HelloWorldWebApp\HelloWorldWebApp\bin\HelloWorldWebApp.pdb
+E:\Batch33#107512\19122016\HelloWorldWebApp\HelloWorldWebApp\obj\Debug\HelloWorldWebApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\19122016\HelloWorldWebApp\HelloWorldWebApp\obj\Debug\HelloWorldWebApp.dll
+E:\Batch33#107512\19122016\HelloWorldWebApp\HelloWorldWebApp\obj\Debug\HelloWorldWebApp.pdb

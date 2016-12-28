@@ -1,0 +1,6 @@
+E:\Batch33#107512\12122016\Casting\Casting\bin\Debug\Casting.exe.config
+E:\Batch33#107512\12122016\Casting\Casting\bin\Debug\Casting.exe
+E:\Batch33#107512\12122016\Casting\Casting\bin\Debug\Casting.pdb
+E:\Batch33#107512\12122016\Casting\Casting\obj\Debug\Casting.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\12122016\Casting\Casting\obj\Debug\Casting.exe
+E:\Batch33#107512\12122016\Casting\Casting\obj\Debug\Casting.pdb

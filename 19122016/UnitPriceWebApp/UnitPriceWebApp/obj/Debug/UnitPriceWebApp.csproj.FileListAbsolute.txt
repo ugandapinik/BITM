@@ -1,0 +1,6 @@
+E:\Batch33#107512\19122016\UnitPriceWebApp\UnitPriceWebApp\bin\UnitPriceWebApp.dll.config
+E:\Batch33#107512\19122016\UnitPriceWebApp\UnitPriceWebApp\bin\UnitPriceWebApp.dll
+E:\Batch33#107512\19122016\UnitPriceWebApp\UnitPriceWebApp\bin\UnitPriceWebApp.pdb
+E:\Batch33#107512\19122016\UnitPriceWebApp\UnitPriceWebApp\obj\Debug\UnitPriceWebApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\19122016\UnitPriceWebApp\UnitPriceWebApp\obj\Debug\UnitPriceWebApp.dll
+E:\Batch33#107512\19122016\UnitPriceWebApp\UnitPriceWebApp\obj\Debug\UnitPriceWebApp.pdb

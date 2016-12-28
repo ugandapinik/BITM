@@ -1,0 +1,6 @@
+E:\Batch33#107512\21122016\StudentInformationWebApp\StudentInformationWebApp\bin\StudentInformationWebApp.dll.config
+E:\Batch33#107512\21122016\StudentInformationWebApp\StudentInformationWebApp\bin\StudentInformationWebApp.dll
+E:\Batch33#107512\21122016\StudentInformationWebApp\StudentInformationWebApp\bin\StudentInformationWebApp.pdb
+E:\Batch33#107512\21122016\StudentInformationWebApp\StudentInformationWebApp\obj\Debug\StudentInformationWebApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\21122016\StudentInformationWebApp\StudentInformationWebApp\obj\Debug\StudentInformationWebApp.dll
+E:\Batch33#107512\21122016\StudentInformationWebApp\StudentInformationWebApp\obj\Debug\StudentInformationWebApp.pdb

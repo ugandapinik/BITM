@@ -1,0 +1,6 @@
+E:\Batch33#107512\10122016\ClassWorkApp\ClassWorkApp\bin\Debug\ClassWorkApp.exe.config
+E:\Batch33#107512\10122016\ClassWorkApp\ClassWorkApp\bin\Debug\ClassWorkApp.exe
+E:\Batch33#107512\10122016\ClassWorkApp\ClassWorkApp\bin\Debug\ClassWorkApp.pdb
+E:\Batch33#107512\10122016\ClassWorkApp\ClassWorkApp\obj\Debug\ClassWorkApp.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\10122016\ClassWorkApp\ClassWorkApp\obj\Debug\ClassWorkApp.exe
+E:\Batch33#107512\10122016\ClassWorkApp\ClassWorkApp\obj\Debug\ClassWorkApp.pdb

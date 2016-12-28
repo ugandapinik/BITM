@@ -1,0 +1,6 @@
+E:\Batch33#107512\19122016\SimpleShowButton\SimpleShowButton\bin\SimpleShowButton.dll.config
+E:\Batch33#107512\19122016\SimpleShowButton\SimpleShowButton\bin\SimpleShowButton.dll
+E:\Batch33#107512\19122016\SimpleShowButton\SimpleShowButton\bin\SimpleShowButton.pdb
+E:\Batch33#107512\19122016\SimpleShowButton\SimpleShowButton\obj\Debug\SimpleShowButton.csprojResolveAssemblyReference.cache
+E:\Batch33#107512\19122016\SimpleShowButton\SimpleShowButton\obj\Debug\SimpleShowButton.dll
+E:\Batch33#107512\19122016\SimpleShowButton\SimpleShowButton\obj\Debug\SimpleShowButton.pdb

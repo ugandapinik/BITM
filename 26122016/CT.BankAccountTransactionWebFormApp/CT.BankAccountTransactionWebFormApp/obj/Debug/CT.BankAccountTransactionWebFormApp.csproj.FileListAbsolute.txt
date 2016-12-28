@@ -1,0 +1,6 @@
+E:\Batch33#107512\26122016(Sumon)\CT.BankAccountTransactionWebFormApp\CT.BankAccountTransactionWebFormApp\bin\CT.BankAccountTransactionWebFormApp.dll.config
+E:\Batch33#107512\26122016(Sumon)\CT.BankAccountTransactionWebFormApp\CT.BankAccountTransactionWebFormApp\bin\CT.BankAccountTransactionWebFormApp.dll
+E:\Batch33#107512\26122016(Sumon)\CT.BankAccountTransactionWebFormApp\CT.BankAccountTransactionWebFormApp\bin\CT.BankAccountTransactionWebFormApp.pdb
+E:\Batch33#107512\26122016(Sumon)\CT.BankAccountTransactionWebFormApp\CT.BankAccountTransactionWebFormApp\obj\Debug\CT.BankAccountTransactionWebFormApp.dll
+E:\Batch33#107512\26122016(Sumon)\CT.BankAccountTransactionWebFormApp\CT.BankAccountTransactionWebFormApp\obj\Debug\CT.BankAccountTransactionWebFormApp.pdb
+E:\Batch33#107512\26122016(Sumon)\CT.BankAccountTransactionWebFormApp\CT.BankAccountTransactionWebFormApp\obj\Debug\CT.BankAccountTransactionWebFormApp.csprojResolveAssemblyReference.cache

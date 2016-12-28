@@ -1,0 +1,8 @@
+E:\Batch33#107512\07122016\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\Batch33#107512\07122016\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\Batch33#107512\07122016\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\Batch33#107512\07122016\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+E:\Batch33#107512\07122016\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+E:\Batch33#107512\07122016\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.Cache
+E:\Batch33#107512\07122016\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\Batch33#107512\07122016\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

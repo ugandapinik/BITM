@@ -1,0 +1,5 @@
+E:\Batch33#107512\07122016\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+E:\Batch33#107512\07122016\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\Batch33#107512\07122016\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\Batch33#107512\07122016\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\Batch33#107512\07122016\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
